@@ -220,7 +220,7 @@ The process included:
 
 ### Payment Analysis
 
-![Payment Analysis]("C:\Users\ak190\OneDrive\Desktop\power BI project\Payment Analysis.png")
+![Payment Analysis](https://github.com/ak1909450/Vista-Resort-PowerBI-Dashboard/blob/main/Payment%20Analysis.png?raw=true)
 
 ### Employee Analysis
 
