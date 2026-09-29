@@ -216,7 +216,7 @@ The process included:
 
 ### Room Analysis
 
-![Room Analysis]("C:\Users\ak190\OneDrive\Desktop\power BI project\Room Analysis.png")
+![Room Analysis](https://github.com/ak1909450/Vista-Resort-PowerBI-Dashboard/blob/main/Room%20Analysis.png?raw=true)
 
 ### Payment Analysis
 
