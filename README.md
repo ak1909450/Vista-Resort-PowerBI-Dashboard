@@ -208,7 +208,7 @@ The process included:
 
 ### Executive Overview
 
-![Executive Overview]("C:\Users\ak190\OneDrive\Desktop\power BI project\Executive overview.png")
+[Executive Analysis]("D:\power bi master class\Employee Analysis.png")
 
 ### Booking Analysis
 
