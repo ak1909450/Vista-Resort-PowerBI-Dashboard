@@ -208,7 +208,7 @@ The process included:
 
 ### Executive Overview
 
-![Executive Analysis](D:\power bi master class\Employee Analysis.png)
+![Executive Analysis](https://github.com/ak1909450/Vista-Resort-PowerBI-Dashboard/blob/main/Executive%20overview.png?raw=true)
 
 ### Booking Analysis
 
