@@ -208,7 +208,7 @@ The process included:
 
 ### Executive Overview
 
-[Executive Analysis](D:\power bi master class\Employee Analysis.png)
+![Executive Analysis](D:\power bi master class\Employee Analysis.png)
 
 ### Booking Analysis
 
