@@ -212,7 +212,7 @@ The process included:
 
 ### Booking Analysis
 
-![Booking Analysis]("C:\Users\ak190\OneDrive\Desktop\power BI project\Booking Analysis.png")
+![Booking Analysis]()
 
 ### Room Analysis
 
@@ -224,7 +224,7 @@ The process included:
 
 ### Employee Analysis
 
-![Employee Analysis]("C:\Users\ak190\OneDrive\Desktop\power BI project\Employee Analysis.png")
+![Employee Analysis](https://github.com/ak1909450/Vista-Resort-PowerBI-Dashboard/blob/main/Employee%20Analysis.png?raw=true))
 
 ---
 
