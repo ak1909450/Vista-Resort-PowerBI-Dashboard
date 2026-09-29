@@ -212,7 +212,7 @@ The process included:
 
 ### Booking Analysis
 
-![Booking Analysis]()
+![Booking Analysis](https://github.com/ak1909450/Vista-Resort-PowerBI-Dashboard/blob/main/Booking%20Analysis.png?raw=true)
 
 ### Room Analysis
 
